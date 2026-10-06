@@ -1,0 +1,19 @@
+{
+  "name": "El Mentiroso",
+  "short_name": "Mentiroso",
+  "description": "Juego de dados de faroles (dudo, perudo o cubilete) contra tres rivales de la máquina.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#8b4513",
+  "theme_color": "#8b4513",
+  "lang": "es",
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
